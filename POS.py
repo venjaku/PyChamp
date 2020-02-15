@@ -1,7 +1,14 @@
+#Question: Write a program in python which will take budget from customer and bill all the items, if the total amount is within the budget place the order, otherwise show out of budget.
+
+print("#############################")
+print("★ POS by Venkatesh Vanjaku ★")
+print("#############################")
+
 ItemName = []
 ItemPrice = []
 
-num = int(input("How many Items: "))
+budget = int(input("Customer Budget: "))
+num = int(input("Number of Items: "))
 
 for i in range(num):
     iname = input("Enter Item Name: ")
@@ -13,16 +20,15 @@ ItemNamesTup = tuple(ItemName[0:num])
 ItemPriceTup = tuple(ItemPrice[0:num])
 
 ItemsList = [ItemNamesTup, ItemPriceTup]
-print(ItemsList)
 print("############################")
 TotalPrice = 0
 for j in range(num):
-    print("Item Name : %s, Item Price %s" %(ItemNamesTup[j], ItemPriceTup[j]))
+    print("Item Name: %s, Item Price: %s" %(ItemNamesTup[j], ItemPriceTup[j]))
     TotalPrice = TotalPrice + int(ItemPriceTup[j])
 print("############################")
-print("Price of Total Items %d" %TotalPrice)
+print("TOTAL PRICE = %d" %TotalPrice)
 
-if (TotalPrice > 100):
+if (TotalPrice > budget):
     print("############################")
     print("Oops! Out of budget :(")
 else:
