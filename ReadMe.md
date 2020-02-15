@@ -10,4 +10,6 @@ Read More in [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_langu
 - Link to download PyChamp module in Windows  https://github.com/vvrofficial/pychamp/archive/master.zip
 
 ## Index of Contents
-1. [Printing Hello World](https://github.com/vvrofficial/pychamp/blob/master/helloworld.py/).
+1. [Printing Hello World](https://github.com/vvrofficial/pychamp/blob/master/helloworld.py/)
+2. [Printing Dynamic Text](https://github.com/vvrofficial/pychamp/blob/master/dynamic.py/)
+3. [Point Of Sale (POS)](https://github.com/vvrofficial/pychamp/blob/master/POS.py/)
