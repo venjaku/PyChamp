@@ -13,4 +13,5 @@ Read More in [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_langu
 1. [Printing Hello World](https://github.com/vvrofficial/pychamp/blob/master/helloworld.py/)
 2. [Printing Dynamic Text](https://github.com/vvrofficial/pychamp/blob/master/dynamic.py/)
 3. [Printing DataTypes](https://github.com/vvrofficial/pychamp/blob/master/datatypes.py/)
-4. [Point Of Sale (POS)](https://github.com/vvrofficial/pychamp/blob/master/POS.py/)
+4. [String Manipulation](https://github.com/vvrofficial/pychamp/blob/master/stringmanipulation.py/)
+5. [Point Of Sale (POS)](https://github.com/vvrofficial/pychamp/blob/master/POS.py/)
