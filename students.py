@@ -14,15 +14,3 @@ Students.append(SecondStudent)
 Students.append(ThirdStudent)
 Students.append(FourthStudent)
 print (Students)
-
-
-#The above program can also be written through While Loop, but it will run until you type exit. Remove """ these before and after the program
-
-"""
-Students = []
-y = input("Enter student's name: ")
-while (y != "exit"):
-    Students.append(y)
-    y = input("Enter student's name: ")
-print (Students)
-"""
