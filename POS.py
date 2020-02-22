@@ -4,12 +4,17 @@ print("#############################")
 print("★ POS by Venkatesh Vanjaku ★")
 print("#############################")
 
+#Declaring Reusale Lists
 ItemName = []
 ItemPrice = []
 
+#Collecting Customer Budget
 budget = int(input("Customer Budget: "))
+
+#Collecting No.Of Items in Basket
 num = int(input("Number of Items: "))
 
+#Adding Items to the Bills
 for i in range(num):
     iname = input("Enter Item Name: ")
     iprice = input("Enter Item Price:  ")
@@ -19,8 +24,11 @@ for i in range(num):
 ItemNamesTup = tuple(ItemName[0:num])
 ItemPriceTup = tuple(ItemPrice[0:num])
 
+#Printing Item's List
 ItemsList = [ItemNamesTup, ItemPriceTup]
 print("############################")
+
+#Calculating Total Price using For Loop
 TotalPrice = 0
 for j in range(num):
     print("Item Name: %s, Item Price: %s" %(ItemNamesTup[j], ItemPriceTup[j]))
@@ -28,9 +36,11 @@ for j in range(num):
 print("############################")
 print("TOTAL PRICE = %d" %TotalPrice)
 
+#Comparing the Bill with Budget
 if (TotalPrice > budget):
     print("############################")
     print("Oops! Out of budget :(")
 else:
     print("############################")
-    print("Hola, order placed")
+    print("Transaction Successfully Completed")
+    print("## THANK YOU, VISIT AGAIN ##")
