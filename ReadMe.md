@@ -18,7 +18,8 @@ Read More in [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_langu
 6. [String Manipulation](https://github.com/vvrofficial/pychamp/blob/master/StringManipulation.py/)
 7. [Alphabets](https://github.com/vvrofficial/pychamp/blob/master/Alphabets.py/)
 8. [Bulk File Downloader](https://github.com/vvrofficial/PyChamp/blob/master/BulkDownloader.py/)
-9. [Point Of Sale (POS)](https://github.com/vvrofficial/pychamp/blob/master/POS.py/)
+9. [Zodiac Sign Calculator](https://github.com/vvrofficial/PyChamp/blob/master/ZodiacSignCalculator.py/)
+10. [Point Of Sale (POS)](https://github.com/vvrofficial/pychamp/blob/master/POS.py/)
 
 Published by **[Venkatesh Vanjaku](https://vvrofficial.github.io/)**
 
