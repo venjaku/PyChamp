@@ -17,6 +17,7 @@ Read More in [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_langu
 5. [Printing Lists from Input](https://github.com/vvrofficial/pychamp/blob/master/Students.py/)
 6. [String Manipulation](https://github.com/vvrofficial/pychamp/blob/master/StringManipulation.py/)
 7. [Alphabets](https://github.com/vvrofficial/pychamp/blob/master/Alphabets.py/)
-8. [Point Of Sale (POS)](https://github.com/vvrofficial/pychamp/blob/master/POS.py/)
+8. [Bulk File Downloader](https://github.com/vvrofficial/PyChamp/blob/master/BulkDownloader.py/)
+9. [Point Of Sale (POS)](https://github.com/vvrofficial/pychamp/blob/master/POS.py/)
 
-Created by **[Venkatesh Vanjaku](https://medium.com/@vvrofficial/)**
+Created by **[Venkatesh Vanjaku](https://vvrofficial.github.io/)**
