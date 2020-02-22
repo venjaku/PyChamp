@@ -20,4 +20,7 @@ Read More in [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_langu
 8. [Bulk File Downloader](https://github.com/vvrofficial/PyChamp/blob/master/BulkDownloader.py/)
 9. [Point Of Sale (POS)](https://github.com/vvrofficial/pychamp/blob/master/POS.py/)
 
-Created by **[Venkatesh Vanjaku](https://vvrofficial.github.io/)**
+Published by **[Venkatesh Vanjaku](https://vvrofficial.github.io/)**
+
+## Declaration (applicable to all)
+- [x] I here by declaring that, I have read and understood the [disclaimer](https://github.com/vvrofficial/vvrofficial.github.io/blob/master/GlobalDisclaimer.md/) by Venkatesh Vanjaku. I agree for that. I myself will be responsible for any mis-usage of this information and the author holds no responsibility.
