@@ -22,3 +22,5 @@ for index,slide in enumerate(slides):
     imagename = "Venky" + "-" + str(index) + ".jpg"
     image = wget.download(slide["data-full"],imagename)
     print("Downloading - " + slide["data-full"])
+
+#Ignore this Line - Credits: Venkatesh Vanjaku
