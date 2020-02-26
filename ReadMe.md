@@ -15,11 +15,12 @@ Read More in [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_langu
 3. [Printing DataTypes](https://github.com/vvrofficial/pychamp/blob/master/Datatypes.py/)
 4. [Loops](https://github.com/vvrofficial/PyChamp/tree/master/loops/)
 5. [Printing Lists from Input](https://github.com/vvrofficial/pychamp/blob/master/Students.py/)
-6. [String Manipulation](https://github.com/vvrofficial/pychamp/blob/master/StringManipulation.py/)
-7. [Alphabets](https://github.com/vvrofficial/pychamp/blob/master/Alphabets.py/)
-8. [Bulk File Downloader](https://github.com/vvrofficial/PyChamp/blob/master/BulkDownloader.py/)
-9. [Zodiac Sign Calculator](https://github.com/vvrofficial/PyChamp/blob/master/ZodiacSignCalculator.py/)
-10. [Point Of Sale (POS)](https://github.com/vvrofficial/pychamp/blob/master/POS.py/)
+6. [Palindrome](https://github.com/vvrofficial/PyChamp/blob/master/Palindrome.py/)
+7. [String Manipulation](https://github.com/vvrofficial/pychamp/blob/master/StringManipulation.py/)
+8. [Alphabets](https://github.com/vvrofficial/pychamp/blob/master/Alphabets.py/)
+9. [Bulk File Downloader](https://github.com/vvrofficial/PyChamp/blob/master/BulkDownloader.py/)
+10. [Zodiac Sign Calculator](https://github.com/vvrofficial/PyChamp/blob/master/ZodiacSignCalculator.py/)
+11. [Point Of Sale (POS)](https://github.com/vvrofficial/pychamp/blob/master/POS.py/)
 
 Published by **[Venkatesh Vanjaku](https://vvrofficial.github.io/)**
 
