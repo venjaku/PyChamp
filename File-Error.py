@@ -1,4 +1,5 @@
-#For this code, you need to download users.txt file from this link 
+#For this code, you need to download users.txt file from this link ( https://github.com/vvrofficial/PyChamp/blob/master/users.txt )
+
 try:
     file = open ("users.txt", "r")
     
@@ -9,7 +10,7 @@ else:
     for i in file:
         print("Checking %i"%i)
     file.close()
-    print("File Closed")
+    print("Reading Completed")
     
 finally:
-    print("Reading Completed")
+    print("Quitting Process")
