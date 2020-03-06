@@ -6,7 +6,7 @@ According to Wikipedia "**Python is an interpreted, high-level, general-purpose 
 
 Read More in [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)/).
 
-- Command to download PyChamp module in Linux <code> git clone https://github.com/vvrofficial/pychamp.git </code>
+- Command to download PyChamp module in Linux <code> git clone https&#58;//github.com/vvrofficial/pychamp.git </code>
 - Link to download PyChamp module in Windows  https://github.com/vvrofficial/pychamp/archive/master.zip
 
 ## Index of Contents
