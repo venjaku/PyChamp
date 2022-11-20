@@ -6,8 +6,8 @@ According to Wikipedia "**Python is an interpreted, high-level, general-purpose 
 
 Read More in [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language)/).
 
-- Command to download PyChamp module in Linux <code> git clone https&#58;//github.com/vvrofficial/pychamp.git </code>
-- Link to download PyChamp module in Windows  https://github.com/vvrofficial/pychamp/archive/master.zip
+- Command to download PyChamp module in Linux <code> git clone https&#58;//github.com/venjaku/pychamp.git </code>
+- Link to download PyChamp module in Windows  https://github.com/venjaku/pychamp/archive/master.zip
 
 ## Index of Contents
 1. [Printing Hello World](https://github.com/vvrofficial/pychamp/blob/master/HelloWorld.py/)
@@ -22,5 +22,3 @@ Read More in [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_langu
 10. [Bulk File Downloader](https://github.com/vvrofficial/PyChamp/blob/master/BulkDownloader.py/)
 11. [Zodiac Sign Calculator](https://github.com/vvrofficial/PyChamp/blob/master/ZodiacSignCalculator.py/)
 12. [Point Of Sale (POS)](https://github.com/vvrofficial/pychamp/blob/master/POS.py/)
-
-Published by **[Venkatesh Vanjaku](https://vvrofficial.github.io/)**
